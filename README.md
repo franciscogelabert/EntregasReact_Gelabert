@@ -7,5 +7,5 @@ El objetivo es desarrollar una página con contendo relacionado a salud y alimen
 
 ## 01- Deploy Vercel
 
-Deployment: https://preentrega1-react-js-gelabert-francisco.vercel.app/
+Deployment: https://entregas-react-gelabert.vercel.app/
 
